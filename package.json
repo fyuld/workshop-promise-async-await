@@ -1,0 +1,21 @@
+{
+  "name": "promise-async-await",
+  "version": "0.0.1",
+  "description": "Workshop on how to work with Async functionality in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/cucumber-js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "prettier": "^1.17.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "cucumber": "^5.1.0",
+    "dotenv": "^7.0.0"
+  }
+}
